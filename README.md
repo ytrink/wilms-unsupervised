@@ -7,4 +7,4 @@ We then fit a generative topic model using a non-negative matrix factorization a
 
 This paper demonstrates this approach on a publicly available dataset (https://pubmed.ncbi.nlm.nih.gov/25670083/) from high-risk Wilms' tumors.
 
-For questions and access to gene expression datasets, please email trinkya@biu.ac.il.
+For questions and access to processed gene expression datasets, please email trinkya@biu.ac.il.
